@@ -24,7 +24,8 @@ Welcome to my portfolio! This project serves as a showcase of my skills, project
 - React Native (in progress)
 - React JS (in progress)
 
-## Education
+## Education\
+- Senai - SIC Python
 - Senai - Programming Logic
 - Senai - Information Technology
 - Coursera - HTML, CSS, and JavaScript
